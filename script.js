@@ -126,6 +126,7 @@ function selectWinner(){//if anyone of the combination matches then select the w
     }
 }
 
+//replay button
 replayBtn.onclick=()=>{
     window.location.reload();
 }
